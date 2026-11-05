@@ -1,0 +1,10 @@
+# Visual Studio / build output
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+*.cache
+# OS
+.DS_Store
+Thumbs.db
